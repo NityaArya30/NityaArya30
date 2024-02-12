@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Arya</h1>
 <h3 align="center">A passionate frontend developer and a Coding Enthusiast. Innovating Through Lines of Code💡.</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 
 
 # 💫 About Me:
