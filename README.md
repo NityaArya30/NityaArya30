@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently learning backend development<br>🌱 I’m currently learning UI/UX, DSA in C++<br>👯 I’m looking to collaborate on Frontend Projects<br>👨‍💻 All of my projects are available at https://github.com/NityaArya30<br>💬 Ask me about HTML, CSS, JS,React.js<br>📫 How to reach me aryaanitya30@gmail.com<br>⚡ Fun fact: I can serve you delicious food.
+🔭 I’m currently learning backend development<br>🌱 I’m currently learning Backend, DSA in C++<br>👯 I’m looking to collaborate on Frontend Projects<br>👨‍💻 All of my projects are available at https://github.com/NityaArya30<br>💬 Ask me about HTML, CSS, JS,React.js<br>📫 How to reach me aryaanitya30@gmail.com<br>⚡ Fun fact: I can serve you delicious food.
 
 
 ## 🌐 Socials:
